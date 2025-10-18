@@ -52,7 +52,7 @@ whatsapp-meta-api-automation-main/
 1️⃣ Clone this repository
 
 ```bash
-[https://github.com/monojitbgit/WhatsApp.git](https://github.com/monojitbgit/whatsapp-meta-api-automation.git)
+git clone https://github.com/monojitbgit/whatsapp-meta-api-automation.git
 ```
 
 ```bash
