@@ -96,7 +96,7 @@ def main():
     try:
         # Open the spreadsheet and the worksheet
         SPREADSHEET_NAME = "Bulk Message NBD (Python)"  # Replace with your spreadsheet name
-        WORKSHEET_NAME = "Cold"  # Replace with your worksheet name
+        WORKSHEET_NAME = "contact_list"  # Replace with your worksheet name
         sheet = client.open(SPREADSHEET_NAME).worksheet(WORKSHEET_NAME)
 
         # Read all data from the sheet
@@ -145,5 +145,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
