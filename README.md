@@ -19,7 +19,7 @@ It reads phone numbers and company names from a Google Sheet, sends each recipie
 
 ## 📂 Project Structure
 
-WhatsApp-main/
+whatsapp-meta-api-automation-main/
 <br>
 │
 <br>
@@ -52,11 +52,11 @@ WhatsApp-main/
 1️⃣ Clone this repository
 
 ```bash
-https://github.com/monojitbgit/WhatsApp.git
+[https://github.com/monojitbgit/WhatsApp.git](https://github.com/monojitbgit/whatsapp-meta-api-automation.git)
 ```
 
 ```bash
-cd WhatsApp-main
+cd whatsapp-meta-api-automation-main
 ```
 
 <br>
