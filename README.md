@@ -86,7 +86,7 @@ Make sure you have Python 3.8+ and pip installed, then run:
 Open main.py and replace the following placeholders with your actual credentials and IDs:
 <br>api_url = "https://graph.facebook.com/v20.0/YOUR_PHONE_NUMBER_ID/messages"
 <br>access_token = "YOUR_ACCESS_TOKEN"
-<br>template_name = "your_templae_name"
+<br>template_name = "your_template_name"
 <br>image_url = "https://drive.google.com/uc?export=download&id=YOUR_IMAGE_ID"
 <br>SPREADSHEET_NAME = "YOUR SPREADSHEET NAME" 
 <br>WORKSHEET_NAME = "YOUR SHEET NAME"
