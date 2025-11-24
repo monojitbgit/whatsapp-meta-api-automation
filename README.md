@@ -1,4 +1,4 @@
-# 📨 WhatsApp Bulk Messaging Automation (Google Sheets + Meta API)
+# WhatsApp Bulk Messaging Automation (Google Sheets + Meta API)
 
 This Python project automates **sending personalized WhatsApp messages** to clients using the **Meta (Facebook) Graph API** and **Google Sheets** as the data source.
 
@@ -6,7 +6,7 @@ It reads phone numbers and company names from a Google Sheet, sends each recipie
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ Google Sheets integration via `gspread`
 - ✅ WhatsApp Business API integration via `requests`
@@ -17,7 +17,7 @@ It reads phone numbers and company names from a Google Sheet, sends each recipie
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 whatsapp-meta-api-automation-main/
 <br>
@@ -35,7 +35,7 @@ whatsapp-meta-api-automation-main/
 
 
 
-## 🛠️ Requirements
+## Requirements
 
 - Python **3.8+**
 - A **Google Cloud Service Account** with access to your Google Sheet
@@ -47,7 +47,7 @@ whatsapp-meta-api-automation-main/
 
 
 
-## 📦 Installation
+## Installation
 <br>
 1️⃣ Clone this repository
 
@@ -93,7 +93,7 @@ Open main.py and replace the following placeholders with your actual credentials
 
 ---
 
-## 🚀 Running the Script
+## Running the Script
 
 Once everything is configured, run:
 <br>python main.py
@@ -135,7 +135,7 @@ These are listed in requirements.txt.
 
 ---
 
-## 🧾 License
+## License
 
 This project is licensed under the MIT License.
 <br>You’re free to use, modify, and distribute it for personal or commercial purposes.
